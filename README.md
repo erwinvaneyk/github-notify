@@ -1,11 +1,13 @@
 # Github-notify
 A minimal application for sending GitHub notifications to the user through PushBullet.
 
+
+
 ### Prerequistes
 - [docker](https://www.docker.com/)
 
 ### Setting up
-Option 1: Pulling the docker image
+Option 1: Pulling the docker image from [Docker hub](https://registry.hub.docker.com/u/erwinvaneyk/github-notify/)
 ```
 docker pull erwinvaneyk/github-notify
 ```
