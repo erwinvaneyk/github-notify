@@ -18,7 +18,7 @@ docker build --tag=erwinvaneyk/github-notify:latest .
 ```
 
 ### Usage
-Run the following commands (replacing the <key>'s)
+Run the following commands (replacing the `<key>`'s)
 ```
 docker run \
 -e GITHUB_API_KEY=<key> \
