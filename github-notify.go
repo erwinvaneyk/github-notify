@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/erwinvaneyk/go-pushbullet"
-	"github.com/golang/oauth2"
+	"golang.org/x/oauth2"
 	"github.com/google/go-github/github"
 	"os"
 	"strconv"
